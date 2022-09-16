@@ -1,0 +1,36 @@
+body {
+    background: lightpink;
+}
+.header_div {
+    background: darkviolet;
+    color: white;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 40px;
+}
+.header_div h2 {
+    font-size: 40px;
+}
+.header_div p {
+    font-family: 'Shadows Into Light', cursive;
+}
+.main_div {
+    background: lightpink;
+}
+.main_div button {
+    font-family: 'EB Garamond', serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    background-color: lightskyblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
